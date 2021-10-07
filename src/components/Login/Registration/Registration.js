@@ -111,7 +111,7 @@ const Registration = () => {
                 </div>
                 <div>
                 <Button type="submit" variant="contained">Submit</Button>
-                <Link style={{marginLeft: "30px", textDecoration: "none"}} to="/login">Already Registered?</Link>
+                <Link style={{marginLeft: "30px", textDecoration: "none"}} to="/login">Already Registered</Link>
                 </div>
             </Box>
         </div>
